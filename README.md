@@ -4,6 +4,7 @@
     
     http://3.21.225.172:8081/
    
+   
 ## Project
   You need to create two jenkins build projects for each branch of this repo. ```simple``` and ```build-required```.
   
